@@ -48,6 +48,8 @@ static CGFloat kMargin = 10.f;
 
 - (void)barButtonItemClicked:(UIBarButtonItem *)item {
     [self.menu show];
+    
+    
 }
 
 @end
